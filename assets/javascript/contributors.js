@@ -22,12 +22,12 @@ const contributors = [
     },
     {
         name: "Kevin Do",
-        githubName: 'test',
+        githubName: 'KevinDo2801',
         location: "Florida, Fl, USA",
         favorite_ice_cream: "Milk chocolate",
-        github: '',
-        profileImage: '',
-        likes: '',
+        github: 'https://github.com/KevinDo2801',
+        profileImage: 'https://avatars.githubusercontent.com/u/114701016?v=4',
+        likes: 'Coding everything that makes my life better',
         load_check: false
     },
     {
